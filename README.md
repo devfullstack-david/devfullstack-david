@@ -15,7 +15,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,csharp,postgres,mysql,mongodb,azure,gcp,dotnet,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c#,postgres,mysql,mongodb,azure,gcp,dotnet,git,github" />
 </p>
 
 ---
