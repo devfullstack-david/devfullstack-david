@@ -3,12 +3,8 @@
 </p>
 
 <h3 align="center">
-  🚀 Software Developer | Cloud Explorer | Tech Vibes
+  🚀 Software Developer
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Software+Developer+em+constante+evolução...;Especialista+em+Cloud%2C+Back-end+e+BDs;Apaixonado+por+tecnologia+e+inovação;Criando+soluções+com+impacto+real!" />
-</p>
 
 ---
 
