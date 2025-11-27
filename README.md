@@ -11,7 +11,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,postgres,mysql,mongodb,azure,gcp,dotnet,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,postgres,mysql,mongodb,azure,gcp,python,git,github,react,vue,next,flask,graphql" />
 </p>
 
 ---
@@ -21,10 +21,10 @@
 ```ts
 const devfullstack_david = {
   nome: "David Santos",
-  role: "Software Developer",
+  role: ["Software Developer", "Scrum Professional"],
   cloud: ["Google Cloud", "Azure"],
   dbs: ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
   metodologias: ["Scrum", "Agile"],
   objetivo: "Criar sistemas performáticos e escaláveis.",
-  vibes: ["código limpo", "design de arquitetura", "automação", "café ☕"]
+  vibes: ["clean code", "clean architeture", "AI", "coffe ☕"]
 };
